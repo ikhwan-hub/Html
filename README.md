@@ -1,4 +1,4 @@
-# Html#
+# Html
 
 Ini adalah repository berisi file HTML dan gambar untuk latihan membuat website sederhana.
 
